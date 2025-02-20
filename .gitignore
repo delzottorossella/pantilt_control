@@ -1,0 +1,23 @@
+# Cartelle di build (da NON caricare)
+Debug/
+Release/
+build/
+
+# File generati automaticamente
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.axf
+*.dep
+*.d
+*.log
+
+# File specifici dell'IDE (da evitare)
+*.ide
+*.launch
+*.swp
+*.swo
+*.bak
